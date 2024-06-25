@@ -1,0 +1,13 @@
+Declaration 
+
+Arduino-based Car Driving Game 
+Course: ELG 5121
+Group Number: 15
+Members: Abhinav Thakur and Saima Tazreen
+
+
+The car driving game is based off of an Arduino-based jumping jack game. However, although the ideas are similar, we have written most of the code ourselves in designing the game. Initial guidance was taken from the following project:
+
+Arduino Lcd Run & Jump Man Game (https://create.arduino.cc/projecthub/SAROSH_AHMAD/arduino-lcd-run-jump-man-game-7d680e)
+
+
